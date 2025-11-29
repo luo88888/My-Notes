@@ -1,6 +1,12 @@
+*.exe
+*.pdf
+*.html
+*.cph
+
 /_book/
 /node_modules/
 /book.pdf
 /book.mobi
 /book.epub
-image/
+test/
+测试/

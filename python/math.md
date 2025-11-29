@@ -1,0 +1,1 @@
+1. **浮点数向上取整** `math.ceil(float_num)`

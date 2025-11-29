@@ -1,0 +1,27 @@
+2025-03-13 23:06:03,232 - example_logger - DEBUG - This is a debug message
+2025-03-13 23:06:03,232 - example_logger - INFO - This is an info message
+2025-03-13 23:06:03,232 - example_logger - WARNING - This is a warning message
+2025-03-13 23:06:03,233 - example_logger - ERROR - This is an error message
+2025-03-13 23:06:03,233 - example_logger - CRITICAL - This is a critical message
+2025-03-13 23:06:25,395 - example_logger - DEBUG - This is a debug message
+2025-03-13 23:06:25,395 - example_logger - INFO - This is an info message
+2025-03-13 23:06:25,396 - example_logger - WARNING - This is a warning message
+2025-03-13 23:06:25,396 - example_logger - ERROR - This is an error message
+2025-03-13 23:06:25,396 - example_logger - CRITICAL - This is a critical message
+2025-03-13 23:06:46,354 - example_logger - DEBUG - This is a debug message
+2025-03-13 23:06:46,354 - example_logger - INFO - This is an info message
+2025-03-13 23:06:46,354 - example_logger - WARNING - This is a warning message
+2025-03-13 23:06:46,354 - example_logger - ERROR - This is an error message
+2025-03-13 23:06:46,354 - example_logger - CRITICAL - This is a critical message
+2025-03-13 23:15:47,595 - example_logger - DEBUG - This is a debug message
+2025-03-13 23:15:47,595 - example_logger - INFO - This is an info message
+2025-03-13 23:15:47,595 - example_logger - WARNING - This is a warning message
+2025-03-13 23:15:47,595 - example_logger - ERROR - This is an error message
+2025-03-13 23:15:47,595 - example_logger - CRITICAL - This is a critical message
+2025-03-13 23:16:38,359 - module_a - INFO - 模块A日志
+2025-03-13 23:16:38,359 - module_b - ERROR - 模块B错误
+2025-03-13 23:16:38,360 - example_logger - DEBUG - This is a debug message
+2025-03-13 23:16:38,360 - example_logger - INFO - This is an info message
+2025-03-13 23:16:38,360 - example_logger - WARNING - This is a warning message
+2025-03-13 23:16:38,360 - example_logger - ERROR - This is an error message
+2025-03-13 23:16:38,360 - example_logger - CRITICAL - This is a critical message
